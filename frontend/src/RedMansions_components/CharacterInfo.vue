@@ -36,10 +36,15 @@
 <script>
 
 import axios from 'axios'
-import daiyu from '@/assets/daiyu.png'
-import baochai from '@/assets/薛宝钗.png'
-import baoyu from '@/assets/贾宝玉.png'
-import xifeng from '@/assets/王熙凤.png'
+// import daiyu from '@/assets/daiyu.png'
+// import baochai from '@/assets/薛宝钗.png'
+// import baoyu from '@/assets/贾宝玉.png'
+// import xifeng from '@/assets/王熙凤.png'
+
+import daiyu from '@/assets/林黛玉.jpg'
+import baochai from '@/assets/薛宝钗_new.png'
+import baoyu from '@/assets/贾宝玉.jpg'
+import xifeng from '@/assets/王熙凤.jpg'
 
 axios.defaults.headers.common['ngrok-skip-browser-warning'] = 'true'
 const backendUrl = import.meta.env.VITE_BACKEND_URL // 从环境变量中读取后端地址
