@@ -1,0 +1,398 @@
+{
+  "33101d3d-1df4-4d21-85e1-9f5be3bda0df": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "27e6b3f8-3940-4fbb-acd7-376a32a133e6": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "489b91ef-9794-43c0-a2b3-6ba804edfa2e": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "91ed66c3-a2c2-4538-9c0e-dae8f2e5feb9": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "a9c69c6f-3ef7-4fd5-87ee-6d5b2bcac230": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "dee7f049-cef9-4eec-a513-91304a5f9c76": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "1855c2c7-4498-47a1-9b52-a3f05b7c25ff": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "99662c0d-bb8f-4655-870f-79a9829e9f7f": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "6c9abcc4-3358-4126-bf1d-97b8090151ac": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "243116c7-ce6b-45a7-963c-b8e51ba3f78f": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "75127712-7d41-43e0-90e4-52323fc04346": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "d10eddbc-81e2-42ca-8e1d-642d934dea56": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "7de5c255-bdf5-4f50-b752-3daf25207415": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "da94e822-0a1d-4529-9d9c-3e084f7e9bc5": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "b17954d3-4504-4a8f-9c4a-8b808d9dd7d5": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "651dcec3-3485-48d1-8ad3-71bfd790ee36": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "7553f05e-e90c-4b25-9a5a-72183874b0ad": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "7aacc0b4-9b93-4167-91f9-c98fd0a17a3a": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "a4388b5e-6b33-446b-9433-3c0844989f87": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "d1324a0c-34a1-441d-8c19-fbddcece9cd1": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "e593d464-6266-44f3-93c8-e0eba3e5bc6f": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "5baee045-e9ba-4818-a0cf-61957c411419": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "219f0ac4-6470-456c-8b1a-318350766a82": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "d340d451-ff26-4373-a592-41128ca9536b": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "4ad651e1-3fcf-4ea2-b77a-ec96f6053a6e": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "11d7f192-1fda-4918-90a8-142624624c98": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "70f48de3-9a4d-42d1-bb72-7729467fb129": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "e2b1226c-4c2a-4be4-b1c6-1571e2f5c4f0": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "9fc7edd4-c9d6-4757-babe-426adeedd905": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\9fc7edd4-c9d6-4757-babe-426adeedd905_zero_shot_prompt.wav"
+  },
+  "cc46322b-40e5-471e-ba0a-15009d4e5990": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "3eb2aeff-f283-4cb1-b7db-e20305f2afda": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "1e39afed-2012-4654-b84e-4eb49788ecf7": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "18b7cb96-9955-41c2-b527-cf75e1e6d4d9": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "d6285727-71d8-4850-ab48-d75e6c2597d7": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\d6285727-71d8-4850-ab48-d75e6c2597d7_zero_shot_prompt.wav"
+  },
+  "d6c27365-87a3-40fa-b151-6c0d7efa75d4": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "212aaace-4d19-4222-8f2b-681a9cb05553": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "ba3beb61-0b9a-4f84-8b65-a5f9702b3d2c": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "cd47743d-c393-46b9-b93d-015ddb9f1f79": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "0a9d14f3-b4eb-4c9c-a7ae-931ab3913b05": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "2239bf23-1aa8-41d7-a523-8cf831a4ee17": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "d05de9cd-b6b1-4f6a-8371-45cc577c37bf": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "2eb9eed1-cc77-4970-9025-2ba29e65922e": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "368f7cf2-ae60-4795-b4ca-92a419b3ed5e": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "0cd83a86-a060-417c-9257-e20c2bb6d936": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\0cd83a86-a060-417c-9257-e20c2bb6d936_recorded_audio.webm"
+  },
+  "6e3d1d7b-61b7-45e3-accf-c0454114d887": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\6e3d1d7b-61b7-45e3-accf-c0454114d887_recorded_audio.wav"
+  },
+  "f02459df-5768-49eb-90fb-d6b9a987bda4": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "e326cf46-136a-4cdd-b921-fd4059eb5ec4": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "b1e3dd09-3f03-439d-ba16-a586e4367736": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "54e8ea1e-b32f-4033-953d-3ff6c1accb8e": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "de956873-09c1-4f6d-8866-f05305ee159b": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\de956873-09c1-4f6d-8866-f05305ee159b_recorded_audio.webm"
+  },
+  "3b527e92-14ec-4729-a4c4-b50da9607cec": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "bbcc43cc-aaf8-4254-850a-442a80d631f3": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\bbcc43cc-aaf8-4254-850a-442a80d631f3_recorded_audio.webm"
+  },
+  "352ff231-0e14-496d-9535-713b87456ee1": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\352ff231-0e14-496d-9535-713b87456ee1_recorded_audio.webm"
+  },
+  "ed9005d9-3c41-4aae-9fd8-277f52a9b6e8": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\ed9005d9-3c41-4aae-9fd8-277f52a9b6e8_recorded_audio.wav"
+  },
+  "55b8c0d1-f279-4ce9-9a75-40c9a5341b4a": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\55b8c0d1-f279-4ce9-9a75-40c9a5341b4a_recorded_audio.wav"
+  },
+  "40937120-5da2-46e1-b88d-33bd03e448e1": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "e056a1a2-5139-43cc-9173-8757c242303e": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\e056a1a2-5139-43cc-9173-8757c242303e_recorded_audio.wav"
+  },
+  "39944e64-84f7-46f6-a945-cce248b7bee3": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\39944e64-84f7-46f6-a945-cce248b7bee3_recorded_audio.wav"
+  },
+  "0beee599-25c3-425c-b691-fac9f42b3285": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "150298d0-0520-4b93-93ff-1cb7630402a5": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "07299e1a-4680-4608-b6f9-5364566f4366": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "121e2383-0daf-4c69-a511-63855b894996": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\121e2383-0daf-4c69-a511-63855b894996_example.wav"
+  },
+  "e75f650b-fc3c-41ea-ab43-e77ecddad124": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\e75f650b-fc3c-41ea-ab43-e77ecddad124_example.wav"
+  },
+  "04e7edd2-658e-4fd9-93d5-99821b494712": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\04e7edd2-658e-4fd9-93d5-99821b494712_example.wav"
+  },
+  "faf11bab-e99c-4131-8903-8f70c0465644": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\faf11bab-e99c-4131-8903-8f70c0465644_zero_shot_prompt.wav"
+  },
+  "1d38cc03-9b79-4852-bd5a-8f9d6d7143c9": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\1d38cc03-9b79-4852-bd5a-8f9d6d7143c9_recorded_audio.wav"
+  },
+  "caf8c8aa-cd7d-42bd-aa09-dd8c1aacdfc2": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\caf8c8aa-cd7d-42bd-aa09-dd8c1aacdfc2_recorded_audio.wav"
+  },
+  "d11d4a2f-0a85-47c4-a86f-57d67e9449f6": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\d11d4a2f-0a85-47c4-a86f-57d67e9449f6_example.wav"
+  },
+  "40401c65-4887-4549-a83d-e09ddb80023d": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "7b260f42-fc24-4f64-a7ec-54c7b2b4e8eb": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "4bbf3f27-e2cb-448a-9f25-631b7f51db87": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "46def9c6-a868-4efb-8f8e-8f949694c6d3": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "b5cc70ea-9a60-48f9-83ed-9160b7ceeea4": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "bf119393-4f0a-4551-a082-cb0c98d02a40": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "5a3ef63b-60ef-4a89-a032-2549194b9869": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "01f29be3-56e2-4c28-9f6d-35b6ab3cbd81": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "5aaf8d46-0588-49db-8d00-d1fad5aeb8cb": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "e10cd64b-76e1-4471-8e86-9b63cfd8df15": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "533253fa-ac6d-4f58-9e76-3a9968ae8284": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "18b5055f-a960-4373-8d34-182a901a6a17": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "fb803d86-9eaa-4f27-b53c-3c54befd0522": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "0efce672-0e09-4c08-93f5-8684be8a702b": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "77df3e35-9ed7-4f60-bd82-f7e8883bc902": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "8570853e-2b6b-4d53-b974-000dcf8ff980": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "72574353-b09a-411f-ba32-47cc717ab3ee": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "4812fe73-fbc3-4ad8-80c3-9463d7781fb4": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "b98136a9-387f-4311-b227-f2d14ce1057a": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "5bc4444d-6ec7-492f-9751-62d36100ddbc": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "24e38f5c-523b-4160-a17d-2832e7cbfff5": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "73099ed5-df14-4428-a19c-0a45bf1d1c61": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "e4ad5030-e899-42c9-abf6-2c5a23b1f73f": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "2b9d3a85-1901-45eb-bd80-c51a84fa1636": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "4f52ebce-de10-44c6-91ad-33b68869aa07": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "69747bb2-3baf-4fe2-80a5-aea8f79b2b27": {
+    "status": "success",
+    "file_path": "d:\\CosyVoice\\backend\\upload_input\\69747bb2-3baf-4fe2-80a5-aea8f79b2b27_recorded_audio.wav"
+  },
+  "7f2d9e93-773b-44aa-b478-c01d2ff9b757": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "2739f9bd-c3f2-4d9c-8262-87324562a3da": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "0c405651-c65c-4ce3-9553-248757ab3b63": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "6481d9b8-2c65-4ef7-bc7d-d870412f8c08": {
+    "status": "waiting",
+    "file_path": ""
+  },
+  "e88117d9-f854-4876-bb04-d20e19cc325e": {
+    "status": "waiting",
+    "file_path": ""
+  }
+}
