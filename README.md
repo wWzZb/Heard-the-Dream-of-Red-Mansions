@@ -1,6 +1,3 @@
-# Heard-the-Dream-of-Red-Mansions
-
-
 
 
 ## 运行项目
@@ -26,6 +23,15 @@ conda install -y -c conda-forge pynini==2.1.5
 pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/ --trusted-host=mirrors.aliyun.com
 ```
 
+### 模型下载：
+可以在项目根下新建一个脚本运行以下文件，模型会自动下载到对应的地址
+
+```python
+# SDK模型下载
+from modelscope import snapshot_download
+snapshot_download('iic/CosyVoice2-0.5B', local_dir='pretrained_models/CosyVoice2-0.5B')
+```
+
 
 
 ### 构建前后端：
@@ -36,4 +42,9 @@ start.bat #包含了构建前端依赖
 ```
 
 运行成功后应该会自动在浏览器中打开[http://localhost:5173/RedMansions](http://localhost:5173/RedMansions)（也可以手动打开），就可以体验听见红楼梦了。
+
+
+
+
+
 
