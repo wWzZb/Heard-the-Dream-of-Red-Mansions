@@ -47,7 +47,8 @@ snapshot_download('iic/CosyVoice2-0.5B', local_dir='pretrained_models/CosyVoice2
 
 ### 构建前后端：
 
-#Node.js (≥ 18)
+Node.js (≥ 18)
+
 在项目目录下运行
 
 ```bash
